@@ -1,10 +1,6 @@
 # Student-Management-System-C-Porgramming
 This is Student Management system develop using C programming language. which accepts student information as user inputs from the terminal and store them in a text file. Full name of the student, Index Number, Department, how many courses following, what are these individuals and marks of each course. Details will be displayed as a report
 
-# Student Record Management System
-
-This repository contains a student record management system implemented in C. The program allows users to input and manage student information such as full name, index number, department, courses, and grades. The data is stored in text files and can be displayed as a structured report.
-
 ## Features
 
 - Add new student: Allows users to add information about a new student, including their full name, index number, department, and courses.
